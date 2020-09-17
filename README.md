@@ -28,7 +28,7 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 Data for the year 2018, 2019 & 2020 can be downloaded form here --> https://insights.stackoverflow.com/survey
 
-You will need to create a foler with name data and rename the survey files as survey_result_public_year.csv. for example : 2018 file will be renamed as survey_result_public_2018.csv and so on.
+You will need to create a folder with name data and rename the survey files for each year as survey_result_public_<year>.csv. for example : 2018 file will be renamed as survey_result_public_2018.csv and so on.
 
 Notebooks available here showcase the analysis of the above questions.
 
