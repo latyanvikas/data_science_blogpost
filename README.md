@@ -28,11 +28,13 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 Data for the year 2018, 2019 & 2020 can be downloaded form here --> https://insights.stackoverflow.com/survey
 
+You will need to create a foler with name data and rename the survey files as survey_result_public_year.csv. for example : 2018 file will be renamed as survey_result_public_2018.csv and so on.
+
 Notebooks available here showcase the analysis of the above questions.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@vikaslatyan/most-common-programming-used-by-men-and-women-in-india-and-salary-comparison-between-them-3f522f72bcf).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
